@@ -12,6 +12,19 @@ I'm a passionate **Flutter Mobile App Developer** and **Backend Developer**, spe
 - 🔄 **RESTful APIs**: Integrate third-party services and custom APIs to extend app functionality and enhance user experiences.
 - 🔧 **Tools & Technologies**: Proficient in Git, Firebase, Docker, and CI/CD pipelines for efficient development workflows.
 
+### 🛠 I code using
+
+<!-- ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) -->
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
+![Python](https://img.shields.io/badge/-python-05122A?&logo=python)
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
+![Dart](https://img.shields.io/badge/-dart-05122A?&logo=dart)
+![Flutter](https://img.shields.io/badge/-flutter-05122A?&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+
 ## 🌱 I'm Currently Learning
 - Expanding my knowledge in advanced backend architectures and microservices.
 - Exploring cross-platform app development with Flutter for Web.
