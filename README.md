@@ -22,11 +22,11 @@ I'm a passionate **Flutter Mobile App Developer** and **Backend Developer**, spe
 
 ## 🤝 Connect With Me
 - LinkedIn: [vikovic](https://www.linkedin.com/in/victor-akobundu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrzZvPsRGS7qLS%2BpRPmSOZg%3D%3D)
-- Email: your.email@example.com
-- GitHub: [](https://github.com/vikovic18)
+- Email: obiomaakobundu@gmail.com
+- GitHub: [github](https://github.com/vikovic18)
 
 ## ⚡ Fun Fact
 I love to explore new technologies, play chess, and play video games.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikovic18&show_icons=true&theme=radical)
 
