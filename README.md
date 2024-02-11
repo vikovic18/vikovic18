@@ -3,6 +3,10 @@
 ## 🚀 About Me
 I'm a passionate **Flutter Mobile App Developer** and **Backend Developer**, specializing in creating seamless, high-performance mobile applications and robust backend solutions. With a knack for clean, scalable code and user-centric design, I bring ideas to life in the tech space.
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vikovic18&label=Profile%20views&color=0e75b6&style=flat" alt="chaimadal27" /> 
+</p> 
+
 ## 💻 What I Do
 
 - 🌟 **Flutter Development**: Craft responsive and intuitive mobile apps for both Android and iOS using Flutter & Dart.
