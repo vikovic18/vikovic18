@@ -1,4 +1,4 @@
-# Hello, I'm [Victor Akobundu]! 👋
+# Hello, I'm Victor Akobundu! 👋
 
 ## 🚀 About Me
 I'm a passionate **Flutter Mobile App Developer** and **Backend Developer**, specializing in creating seamless, high-performance mobile applications and robust backend solutions. With a knack for clean, scalable code and user-centric design, I bring ideas to life in the tech space.
