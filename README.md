@@ -3,6 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Flutter Mobile App Developer** and **Backend Developer**, specializing in creating seamless, high-performance mobile applications and robust backend solutions. With a knack for clean, scalable code and user-centric design, I bring ideas to life in the tech space.
 
+
 ## 💻 What I Do
 
 - 🌟 **Flutter Development**: Craft responsive and intuitive mobile apps for both Android and iOS using Flutter & Dart.
@@ -28,5 +29,7 @@ I'm a passionate **Flutter Mobile App Developer** and **Backend Developer**, spe
 ## ⚡ Fun Fact
 I love to explore new technologies, play chess, and play video games.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikovic18&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikovic18&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikovic18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
